@@ -1,3 +1,5 @@
+**Important Note:** All development for DyNetworkX has been moved to `this repository <https://github.com/IdeasLabUT/dynetworkx>`_, due to a decision to detach the fork from NetworkX.
+
 DyNetworkX
 ==========
 
